@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "xlocbuf": "cpp",
+        "utility": "cpp",
+        "ostream": "cpp",
+        "xutility": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "cmath": "cpp",
+        "string": "cpp",
+        "regex": "cpp",
+        "xlocale": "cpp",
+        "xiosbase": "cpp"
+    }
+}
